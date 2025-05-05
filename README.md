@@ -111,6 +111,9 @@ Phoenix ArizeAI: Visualization and monitoring platform for tracking LLM performa
 
 LangChain LangSmith: Integrated debugging, evaluation, and monitoring for LangChain-based applications
 
+![image](https://github.com/user-attachments/assets/06e9e3bb-98d4-4cd1-91f9-7a396f60db99)
+
+
 LLMonitor: Purpose-built platform for monitoring, tracking, and analyzing LLM application usage
 Traditional Observability Tools with LLM Extensions
 
